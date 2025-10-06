@@ -6,7 +6,7 @@ Um site moderno e responsivo para a Muxima do Sul, empresa líder em Comunicaç�
 
 ## 🌟 Visão Geral
 
-O site da Muxima do Sul é uma Single Page Application (SPA) construída com React e Firebase, projetada para apresentar os serviços da empresa, permitir interação com clientes e fornecer uma plataforma para gerenciamento de conteúdo.
+O site da Muxima do Sul é uma Multi Page Application (MPA) construída com React e Firebase, projetada para apresentar os serviços da empresa, permitir interação com clientes e fornecer uma plataforma para gerenciamento de conteúdo.
 
 ### Funcionalidades Principais
 
@@ -35,20 +35,37 @@ Acesse o site em: [https://www.muximadosul.com](https://www.muximadosul.com)
 ## 📦 Estrutura do Projeto
 
 ```
-muxima-do-sul/
-├── public/                    # Arquivos estáticos
-│   ├── assets/               # Imagens e outros recursos
-│   ├── sounds/               # Arquivos de áudio
-│   └── index.html            # Template HTML principal
-├── src/
-│   ├── components/           # Componentes React
-│   ├── context/              # Contextos para estado global
-│   ├── utils/                # Utilitários (configuração Firebase)
-│   ├── styles/               # Estilos CSS
-│   ├── App.js               # Componente principal
-│   └── index.js             # Ponto de entrada
-├── package.json             # Dependências e scripts
-└── README.md               # Este arquivo
+c:\Muxima do Sul\public
+├── 404.html
+├── about.html
+├── admin-dashboard.html
+├── admlogin.html
+├── blog.html
+├── bot.js
+├── career.html
+├── Contact.html
+├── faq.html
+├── firebase-debug.log
+├── firebase.config.js
+├── images/
+│   ├── adilsonchitunda.jpg
+│   ├── android-chrome-192x192.png
+│   ├── android-chrome-512x512.png
+│   ├── apple-touch-icon.png
+│   ├── ben.jpg
+│   ├── fallback-image.jpg
+│   ├── favicon-16x16.png
+│   ├── favicon-32x32.png
+│   ├── favicon.ico
+│   ├── hero-bg.jpg
+│   ├── logo.png
+│   └── unkulu.jpg
+├── index.html
+├── offline.html
+├── podcast.html
+├── portfolio.html
+├── services.html
+└── sw.js
 ```
 
 ## 🚀 Instalação e Configuração
