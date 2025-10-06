@@ -20,7 +20,7 @@ O site da Muxima do Sul é uma Single Page Application (SPA) construída com Rea
 
 ## 🚀 Demonstração
 
-Domínio actual: [https://www.muximadosul.web.app]([https://www.muximadosul.com](https://www.muximadosul.web.app)
+Domínio actual: [https://www.muximadosul.web.app](https://www.muximadosul.web.app).
 Depois:
 Acesse o site em: [https://www.muximadosul.com](https://www.muximadosul.com)
 
